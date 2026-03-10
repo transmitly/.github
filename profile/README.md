@@ -26,7 +26,7 @@ Transmitly gives you a consistent model built around:
 - **Channel Providers**: SMTP, SendGrid, Mailgun, Twilio, Infobip, Firebase, and more
 - **Pipelines**: Domain-oriented communication flows such as `WelcomeKit`, `PasswordReset`, or `OrderProcessing`
 
-## What the organization offers
+## What Transmitly offers
 
 | Area | What you get |
 | --- | --- |
