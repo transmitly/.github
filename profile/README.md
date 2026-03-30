@@ -15,7 +15,7 @@ Model communications as domain intents, define the channels and content once, an
 
 As applications grow, communications usually get more complicated:
 
-- New providers get introduced for deliverability, cost, or feature reasons
+- New providers get introduced for deliverability, cost, or feature
 - Different channels get added for the same workflow
 - Templates and credentials end up spread across multiple services
 - Delivery tracking and webhook handling become inconsistent
@@ -31,19 +31,17 @@ Transmitly gives you a consistent model built around:
 | Area | What you get |
 | --- | --- |
 | Core library | [Transmitly](https://github.com/transmitly/transmitly) for building and dispatching transactional communications |
-| Email providers | SMTP, SendGrid, Mailgun, Azure Communication Services, Infobip, and related provider/configuration packages |
+| Email providers | SMTP, SendGrid, Mailgun, Infobip |
 | SMS and Voice providers | Twilio and Infobip integrations |
 | Push notifications | Firebase support |
 | ASP.NET integrations | MVC and ASP.NET Core webhook and delivery-report handling |
 | Template engines | Scriban and Fluid integrations |
-| Content and webhook tooling | Contentful, webhook client/configuration, and related ecosystem packages |
 
 ## Ecosystem highlights
 
 - [Core library](https://github.com/transmitly/transmitly)
 - [Samples](https://github.com/transmitly/transmitly/tree/main/samples)
 - [Wiki](https://github.com/transmitly/transmitly/wiki)
-- [Website](https://transmit.ly)
 - [SMTP provider](https://github.com/transmitly/transmitly-channel-provider-smtp)
 - [SendGrid provider](https://github.com/transmitly/transmitly-channel-provider-sendgrid)
 - [Mailgun provider](https://github.com/transmitly/transmitly-channel-provider-mailgun)
