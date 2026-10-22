@@ -156,7 +156,7 @@ When you're ready to send real communications, add the provider package you want
 
 ## Project status
 
-Transmitly `0.4.0` is **production-ready and in production use**.
+Transmitly is **production-ready and in production use**.
 
 There are additional capabilities and refinements planned before the project declares `1.0`, and that work _may_ include API evolution.
 
