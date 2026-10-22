@@ -2,6 +2,15 @@
 
 Transmitly lets your application describe what it needs to communicate while keeping how that communication is composed and delivered in one place.
 
+### Start here
+
+- [Transmitly core library](https://github.com/transmitly/transmitly)
+- [Samples](https://github.com/transmitly/transmitly/tree/main/samples)
+- [Wiki](https://github.com/transmitly/transmitly/wiki)
+- [GitHub Discussions](https://github.com/transmitly/transmitly/discussions)
+
+### Otherwise check out what we're building!
+
 Instead of spreading SMTP, SendGrid, Twilio, Firebase, templates, delivery callbacks, and channel-specific behavior throughout your application, your business code can stay focused on domain actions such as:
 
 ```csharp
@@ -92,13 +101,6 @@ Start with the core library, then add only the integrations your application act
    Firebase
 ```
 
-### Start here
-
-- [Transmitly core library](https://github.com/transmitly/transmitly)
-- [Samples](https://github.com/transmitly/transmitly/tree/main/samples)
-- [Wiki](https://github.com/transmitly/transmitly/wiki)
-- [GitHub Discussions](https://github.com/transmitly/transmitly/discussions)
-
 ### Add a channel provider when you need real delivery
 
 - [SMTP](https://github.com/transmitly/transmitly-channel-provider-smtp)
@@ -165,9 +167,3 @@ Transmitly is actively looking for feedback from developers.
 If you try it and something is confusing, overly abstract, missing, or harder than it should be, please start a [GitHub Discussion](https://github.com/transmitly/transmitly/discussions). Questions, API criticism, onboarding troubles and different use cases are all useful feedback.
 
 A report that says "I stopped here because this didn't make sense" is valuable!
-
-## Learn more
-
-- [Transactional Emails: A long term view](https://dev.to/jeremy_tly/transactional-emails-a-long-term-view-13l6)
-- [Sending Transactional Emails with Transmitly (C#)](https://dev.to/jeremy_tly/sending-transactional-emails-with-transmitly-c-ede)
-- [Sending SMS with Transmitly (C#)](https://dev.to/jeremy_tly/sending-sms-with-transmitly-c-13m)
